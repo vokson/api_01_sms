@@ -1,7 +1,7 @@
 from inspect import signature
 
-import twilio.rest
 import requests
+import twilio.rest
 
 
 class MockResponsePOST:
